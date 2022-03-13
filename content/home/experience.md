@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
 title: Experience
 subtitle:
@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: PhD student
+    company: Institute for Interdisciplinary Information Sciences, Tsinghua University
+    company_url: 'https://iiis.tsinghua.edu.cn/'
+    company_logo: ''
+    location: Beijing
+    date_start: '2020-09-01'
+    data_end: ''
+    description: ''
+
+  - title: Research intern
+    company: ByteDance AI Lab, Beijing
+    company_url: 'https://www.bytedance.com/en'
+    company_logo: ''
+    location: ''
+    date_start: '2020-06-05'
+    date_end: '2021-09-30'
+    description: ''
+
+  - title: Summer intern
+    company: CSAIL, Massachusetts Institute of Technology
+    company_url: 'https://cdfg.mit.edu/'
+    company_logo: ''
+    location: ''
+    date_start: '2019-07-01'
+    date_end: '2019-09-10'
+    description: ''
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Undergraduate student
+    company: Department of Electronic Engineering, Tsinghua University
+    company_url: 'https://www.ee.tsinghua.edu.cn/en/'
+    company_logo: ''
+    location: ''
+    date_start: '2016-09-01'
+    date_end: '2020-06-30'
+    description: ''
 
 design:
   columns: '2'

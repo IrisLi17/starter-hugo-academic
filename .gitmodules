@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/IrisLi17/IrisLi17.github.io.git
+	branch = main
