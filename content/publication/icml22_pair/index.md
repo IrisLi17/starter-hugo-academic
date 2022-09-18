@@ -54,7 +54,7 @@ url_poster: ''
 url_project: 'https://sites.google.com/view/pair-gcrl'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://slideslive.com/38983716'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
