@@ -31,6 +31,15 @@ experience:
     data_end: ''
     description: ''
 
+  - title: ML Engineer intern
+    company: Covariant AI
+    company_url: 'https://covariant.ai/'
+    company_logo: ''
+    location: Shenzhen
+    date_start: '2022-06-27'
+    date_end: '2022-08-20'
+    description: ''
+  
   - title: Research intern
     company: ByteDance AI Lab, Beijing
     company_url: 'https://www.bytedance.com/en'
