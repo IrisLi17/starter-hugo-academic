@@ -64,7 +64,7 @@ email: "yunfeili.cloud@gmail.com"
 highlight_name: true
 ---
 
-I am a fourth year PhD student of computer science at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/), Tsinghua University supervised by [Yi Wu](https://jxwuyi.weebly.com/). My research interests include deep reinforcement learning and robotics. 
+I am a final year PhD student of computer science at [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/), Tsinghua University supervised by [Yi Wu](https://jxwuyi.weebly.com/). My research interests include deep reinforcement learning and robotics. 
 
 I love music, sci-fi and traveling in my free time. I am good at playing [古筝*GuZheng*](https://en.wikipedia.org/wiki/Guzheng), a traditional Chinese musical instrument. 
 
